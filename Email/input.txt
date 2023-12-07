@@ -1,0 +1,63 @@
+From - Tue July 08 11:13:12 2014
+
+X-Mozilla-Status: 0001
+
+X-Mozilla-Status2: 00000000
+
+Delivered-To: barde_sir@gmail.com
+
+Received: by 192.48.48.3 with SMTP id v3cs417003nfv;
+
+         08 July 2014 11:13:43 -0800 (PST)
+
+Received: by 192.65.211.13 with SMTP id n13mr5741660qbq.1168884841872;
+
+         08 July 2014 11:13:43 -0800 (PST)
+
+Return-Path: <navinwaghwani@gmail.com>
+
+Received: from bay0-omc3-s21.bay0.gmail.com (bay0-omc3-s21.bay0.gmail.com [65.54.246.221])
+
+        by mx.google.com with ESMTP id e13si6347910qbe.2007.01.15.10.13.58;
+
+        Tue, 08 July 2014 11:13:43 -0800 (PST)
+
+Received-SPF: pass (google.com: domain of nobody@gmail.com designates 65.54.246.221 as permitted sender)
+
+Received: from gmail.com ([65.54.250.22]) by bay0-omc3-s21.bay0.gmail.com with Microsoft SMTPSVC(6.0.3790.2668);
+
+         Tue, 08 July 2014 11:13:43 -0800
+
+Received: from mail pickup service by gmail.com with Microsoft SMTPSVC;
+
+         Tue, 08 July 2014 11:13:43 -0800
+
+Message-ID: <BAY115-F12E4E575FF2272CF577605A1B50@phx.gbl>
+
+Received: from 65.54.250.200 by by115fd.bay115.gmail.msn.com with HTTP;
+
+        Tue, 08 July 2014 11:13:43 GMT
+
+X-Originating-IP: [192.122.47.165]
+
+X-Originating-Email: [navinwaghwani@gmail.com]
+
+X-Sender: navinwaghwani@gmail.com
+
+From: =?iso-8859-1?B?UGF1bGEgTWFy7WEgTGlkaWEgRmxvcmVuemE=?=<navinwaghwani@gmail.com>
+
+To: receiver1@gmail.com, receiver2@gmail.com, receiver3@gmail.com
+
+Bcc: receiver4@gmail.com
+
+Subject: To analyze email header in Python
+
+Date: Tue, 08 July 2014 11:13:43 +0000
+
+Mime-Version: 1.0
+
+Content-Type: multipart/mixed; boundary="----=_NextPart_000_d98_1c4f_3aa9"
+
+X-OriginalArrivalTime: 08 July 2014 11:13:43 (UTC) FILETIME=[E68D4740:01C738D0]
+
+Return-Path: navinwaghwani@gmail.com
